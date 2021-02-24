@@ -21,6 +21,7 @@ function twoSum(nums: number[], target: number): number[] {
   //     }
   //   }
   // }
+  console.log(1)
 
   const LENGTH :number = nums.length
   for(let i = 0; i < LENGTH; i++) {
